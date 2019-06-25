@@ -1,0 +1,21 @@
+http://192.168.1.179:8070/my/page 中康redimei
+
+http://192.168.1.179:8080/  git
+
+https://account.aliyun.com/login/login.htm?from_type=codealiyun&&oauth_callback=http%3A%2F%2Fcode.aliyun.com%2F  阿里云
+
+https://blog.csdn.net/weixin_40344177/article/details/78469815  jpaRespositoty
+
+https://www.cnblogs.com/dreamroute/p/5173896.html  jpa
+
+https://microsoft.github.io/TypeSearch/  npm
+
+https://springcloud.cc/spring-cloud-dalston.html  springcloud 中文文档
+
+https://note.youdao.com/ynoteshare1/index.html?id=9b43c772a8c05f39e5663ae093bc8e01&type=note   Easy code 插件生成entity
+
+https://blog.csdn.net/cuixiping/article/details/45932793 图片转blok
+
+https://docs.open.alipay.com/api_1/alipay.trade.app.pay/ 支付宝接口文档
+
+https://www.cnblogs.com/java920043111/articles/9260838.html   支付demo
